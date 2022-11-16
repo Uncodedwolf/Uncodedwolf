@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uncodedwolf 
 - 👀 I’m interested in learning everything I can
-- 🌱 I’m currently learning Software Development and Crypto-mining
+- 🌱 I’m currently learning Software Development and UI/UX Design
 - 📫 Reach me on Signal at 520-904-0017
 
 <!---
