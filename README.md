@@ -1,13 +1,13 @@
-### Yo, you made it 👋
+<h1 align="center"> Error 303: Directory_Not_Found </h1>
 <p align="center">
-  I’m @Uncodedwolf <br><br>
-   👀 I’m interested in Generative Art + Ai<br>
-  🌱 I’m currently learning Software Development and UI/UX Design<br>
+  I’m @Uncodedwolf <br>
+   👀 I’m interested in Generative Art + Ai <br>
+  🌱 I’m currently learning Software Development and UI/UX Design <br>
   📫 Reach me on Signal at 520-904-0017 <br>
   
-![](https://media1.giphy.com/media/jUhFBECgPWb8ZttHSm/giphy.gif?cid=ecf05e47br3h2521hp4wuuvh58pqeedxi31mr1lsacv6l5lu&rid=giphy.gif&ct=g)
+<p> <img align="right" src="https://github.com/Uncodedwolf/Uncodedwolf/blob/Uncodedwolf-patch-1/giphy.gif" width="400"/></p>
   
-  ## 👩‍💻What do I do?
+<h2> 👩‍💻What do I do? </h2>
    
   <p align="center">
     <img alt="css" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3" />
@@ -29,7 +29,7 @@
 </p>
 
   ## Github Stats
-newb
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uncodedwolf&show_icons=true&theme=transparent)
 <!---
 Uncodedwolf/Uncodedwolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
