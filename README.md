@@ -1,15 +1,16 @@
-<h1 align="center"> Error 303: Directory_Not_Found </h1>
 <p align="center">
-  I’m @Uncodedwolf <br>
-   👀 I’m interested in Generative Art + Ai <br>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&pause=1000&color=06CF0A&lines=;Hello,+my+name+is+Will+:);I+Love+to+do+lots+of+things+💻;I'm+currently+a+student+in+Denver,+CO;Feel+free+to+contact+me+for+websites;&center=true&width=500&height=50"></a>
+</p>
+<p align="center">
+   👀 I Love Generative Art + Design <br>
   🌱 I’m currently learning Software Development and UI/UX Design <br>
-  📫 Reach me on Signal at 520-904-0017 <br>
+  📫 Reach me @business.wc@outlook.com <br>
   
 <p> <img align="right" src="https://github.com/Uncodedwolf/Uncodedwolf/blob/Uncodedwolf-patch-1/giphy.gif" width="33%"/></p>
   
-<h2> 👩‍💻What do I do? </h2>
+## <img src="https://media1.giphy.com/media/Q8PQ1KuarrYucCMVTJ/giphy.gif?cid=ecf05e47odgm8bs8cmb8cf1ijmfzqaeeu9fzmx6nbcv06ky2&rid=giphy.gif" width="30"> What do I do? </h2>
    
-  <p align="center">
+ <p align="center">
     <img alt="css" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3" />
     <img alt="html" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=whitesmoke" />
     <img alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=JavaScript&logoColor=whitesmoke" />
@@ -25,11 +26,12 @@
     <img alt="macos" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0&color=black" />
     <img alt="macos" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&color=black" />
     <img alt="macos" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white&color=black" />
-
 </p>
 
-  ## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uncodedwolf&show_icons=true&theme=transparent)
+  ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Github Stats
+
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
 <!---
 Uncodedwolf/Uncodedwolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
