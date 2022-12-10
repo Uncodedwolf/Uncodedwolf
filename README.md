@@ -5,7 +5,7 @@
   🌱 I’m currently learning Software Development and UI/UX Design <br>
   📫 Reach me on Signal at 520-904-0017 <br>
   
-<p> <img align="right" src="https://github.com/Uncodedwolf/Uncodedwolf/blob/Uncodedwolf-patch-1/giphy.gif" width="400"/></p>
+<p> <img align="right" src="https://github.com/Uncodedwolf/Uncodedwolf/blob/Uncodedwolf-patch-1/giphy.gif" width="33%"/></p>
   
 <h2> 👩‍💻What do I do? </h2>
    
