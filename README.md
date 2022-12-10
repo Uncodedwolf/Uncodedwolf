@@ -1,4 +1,7 @@
-![CSS 3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3)![HTML 5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=whitesmoke)
+![CSS 3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3) ![HTML 5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=whitesmoke)  
+
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif"> </p>
+
 - 👋 Hi, I’m @Uncodedwolf 
 - 👀 I’m interested in Generative Art
 - 🌱 I’m currently learning Software Development and UI/UX Design
