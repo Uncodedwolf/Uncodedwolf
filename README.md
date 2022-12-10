@@ -4,7 +4,7 @@
 <p align="center">
    👀 I Love Generative Art + Design <br>
   🌱 I’m currently learning Software Development and UI/UX Design <br>
-  📫 Reach me @business.wc@outlook.com <br>
+  📫 Reach me @business.wc@outlook.com <br> <p>
   
 <p> <img align="right" src="https://github.com/Uncodedwolf/Uncodedwolf/blob/Uncodedwolf-patch-1/giphy.gif" width="33%"/></p>
   
