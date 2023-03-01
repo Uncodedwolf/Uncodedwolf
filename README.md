@@ -2,9 +2,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&pause=1000&color=06CF0A&lines=;Hello,+my+name+is+Will+:);I+Love+to+do+lots+of+things+💻;I'm+currently+a+student+in+Denver,+CO;Feel+free+to+contact+me+for+websites;&center=true&width=500&height=50"></a>
 </p>
 <p align="center">
-   👀 I Love Generative Art + Design <br>
-  🌱 I’m currently learning Software Development and UI/UX Design <br>
-  📫 Reach me @business.wc@outlook.com <br> <p>
+   👀 I Love Generative Art, good Design, and things that make sense 😮‍💨 <br>
+   I’m currently learning Fullstack Development 🌱 <br>
+  📫 Reach me: business.wc@outlook.com <br> <p>
   
 <p> <img align="right" src="https://github.com/Uncodedwolf/Uncodedwolf/blob/Uncodedwolf-patch-1/giphy.gif" width="33%"/></p>
   
