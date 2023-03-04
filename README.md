@@ -3,7 +3,7 @@
 </p>
 <p align="center">
    👀 I Love Generative Art, good Design, and things that make sense 😮‍💨 <br>
-   I’m currently learning Fullstack Development 🌱 <br>
+   I’m currently learning whatever interests me 🌱 <br>
   📫 Reach me: business.wc@outlook.com <br> <p>
   
 <p> <img align="right" src="https://github.com/Uncodedwolf/Uncodedwolf/blob/Uncodedwolf-patch-1/giphy.gif" width="33%"/></p>
