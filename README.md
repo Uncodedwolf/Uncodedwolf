@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&pause=1000&color=06CF0A&lines=;Hello,+my+name+is+Will+:);I+Love+to+do+lots+of+things+💻;I'm+currently+a+student+in+Denver,+CO;Feel+free+to+contact+me+for+websites;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&pause=1000&color=06CF0A&lines=;Hello,+my+name+is+Will+:);I+Love+to+do+lots+of+things+💻;I'm+a+Developer+in+Denver,+CO;Feel+free+to+contact+me;&center=true&width=500&height=50"></a>
 </p>
 <p align="center">
    👀 I Love Generative Art, good Design, and things that make sense 😮‍💨 <br>
